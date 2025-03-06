@@ -9,3 +9,6 @@ Instructions: Please add your bio to the team below.  Be creative!  We want to k
 
 [ Joe Vonderwell ](My_BIO.md)
 ----------------
+
+[Jimmy Hamilton](jimmy_hamilton.md)
+----------------
